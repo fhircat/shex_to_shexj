@@ -6,8 +6,6 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-dirlistproc = "*"
-pyshex = "*"
+dirlistproc = ">=1.4.5"
+pyshex = ">=0.7.14"
 
-[requires]
-python_version = "3.7"

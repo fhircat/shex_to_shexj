@@ -1,4 +1,10 @@
 # shex_to_shexj
+
+[![Pyversions](https://img.shields.io/pypi/pyversions/shex_to_shexj.svg)](https://pypi.python.org/pypi/shex_to_shexj)
+
+[![PyPi](https://img.shields.io/pypi/v/shex_to_shexj.svg)](https://pypi.python.org/pypi/shex_to_shexj)
+
+
 ShExC to ShExJ conversion utility.  Convert the ShEx compact syntax (ShExC) to the ShEx JSON syntax (ShExJ). This
 conversion is useful for:
 * Tools that do processing directly on the ShEx AST
